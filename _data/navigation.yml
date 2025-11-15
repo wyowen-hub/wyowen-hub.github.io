@@ -11,8 +11,6 @@ main:
   - title: "Research"
     url: /publications/
 
-    - title: "Research Students"
-    url: /publications/
 
   #- title: "Talks"
    # url: /talks/    
@@ -20,8 +18,8 @@ main:
   #- title: "Teaching"
    # url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Research Students"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
