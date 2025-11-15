@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Understanding VR Accessibility Practices of VR Professionals"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
